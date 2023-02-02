@@ -9,7 +9,7 @@ Please install the requirements.txt to reproduce the results:
 It is recommended to use a new environment before running the pip install.
 
 The dataset consists of two csv files: store.csv and train.csv
-![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+
 Data Files:
 
 train.csv holds info about each store.
@@ -49,7 +49,9 @@ Stores with more assortments sell less.
 Stores with closer competitors sell more than stores with more distant competitors.
 
 Stores sell less on weekends.
+
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+
 # Machine Learning Model Applied
 
 At this stage, 5 models were used for analysis:  *Linear Regression *Lasso Regression *Ridge Regression *Random Forest Regressor *Decision Tree
