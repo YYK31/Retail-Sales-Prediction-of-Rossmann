@@ -19,11 +19,11 @@ store.csv holds the sales info per day for each store.
 The repo contains main.py that runs the main script from step one until the end.
 
 
-# 1. Business Problem.
+#  Business Problem.
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
-# 2. Solution Strategy
+#  Solution Strategy
 
 My strategy to solve this challenge was:
 
@@ -43,7 +43,7 @@ Step 07: Convert Model Performance to Business Values: Convert the performance o
 
 Step 08: Deploy Modelo to Production: Publish the model in a cloud environment so that other people or services can use the results to improve the business decision.
 
-# 3. Top 3 Data Insights
+#  Data Insights
 
 Stores with more assortments sell less.
 
@@ -51,11 +51,11 @@ Stores with closer competitors sell more than stores with more distant competito
 
 Stores sell less on weekends.
 
-# 4. Machine Learning Model Applied
+# Machine Learning Model Applied
 
 At this stage, 5 models were used for analysis:  *Linear Regression *Lasso Regression *Ridge Regression *Random Forest Regressor *Decision Tree
 
-# 5. Conclusions
+# Conclusions
 
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
 
