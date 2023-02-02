@@ -58,7 +58,7 @@ At this stage, 5 models were used for analysis:  *Linear Regression *Lasso Regre
 # Conclusions
 
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
-#### <b>Challenges faced:</b>
+# <b>Challenges faced:</b>
   * Removing outliers.
   * Choosing the right approach for segmentation.
   * Choosing the right ML models and evaluation metrics.
