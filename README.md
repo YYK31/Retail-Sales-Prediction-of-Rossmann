@@ -55,6 +55,7 @@ Stores sell less on weekends.
 # Machine Learning Model Applied
 
 At this stage, 5 models were used for analysis:  *Linear Regression *Lasso Regression *Ridge Regression *Random Forest Regressor *Decision Tree
+
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 # Conclusions
 
