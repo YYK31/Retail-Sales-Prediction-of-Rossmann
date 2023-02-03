@@ -18,6 +18,11 @@ store.csv holds the sales info per day for each store.
 The repo contains main.py that runs the main script from step one until the end.
 
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
+
+# <b>Description</b>
+This is an supervised Regression machine learning capstone project on Retail sales prediction, given by [Alma Better](https://www.almabetter.com/).
+
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 #  Business Problem.
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
