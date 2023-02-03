@@ -67,8 +67,11 @@ At this stage, 5 models were used for analysis:  *Linear Regression *Lasso Regre
 The sales forecast and the generated insights provide the CEO with valuable tools to decide the amount of budget that is going to be dedicated to the restoration of each store.
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 # <b>Challenges faced</b>
-  * Removing outliers.
-  * Choosing the right approach for segmentation.
-  * Choosing the right ML models and evaluation metrics.
-
+ 
+1. Reading the dataset and understanding of Rows & columns.
+2.	Some stores were closed. Unable to fill the gap of sales for those stores.
+3. Removing outliers is a big challenge.
+4. Choosing the right ML models and evaluation metrics.
+5. Converting columns with categorical variables to integer type for regression.
+6. Choosing right kind of model.
 
